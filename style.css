@@ -55,7 +55,6 @@ body
         padding:0.1px;
         background:#fff;
         color:#333;
-
 }
 
 .border{
@@ -64,7 +63,6 @@ body
         padding-bottom: 1pc;
         padding-left: 2pc;
         padding-right: 2pc; 
-
 }
 .kiri{
      width:70%; 
@@ -72,19 +70,17 @@ body
      margin:auto;
      background:#fff;
      height:420px;
-
 }
 
 .kanan{
-       width:30%;
-        float:left;
-        margin:auto;
-        background:#fff;
-        height: 420px;
-
+    width:30%;
+    float:left;
+    margin:auto;
+    background:#fff;
+    height: 420px;
 }
 
-.undercor{
+.undecor{
         text-decoration:none;
 }
 
@@ -95,5 +91,4 @@ body
          background:#417aa8;
          color:#fff;
          margin-bottom: 1pc;
-
 }
