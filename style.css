@@ -59,11 +59,11 @@ body{
 }
 
 .border{
-        border : 2px solid #4887b9;
-        margin - top : 1pc; 
-        padding - bottom: 1pc;
-        padding - left : 2pc;
-        padding - right : 2pc; 
+        border: 2px solid #4887b9;
+        margin-top: 1pc; 
+        padding-bottom: 1pc;
+        padding-left: 2pc;
+        padding-right: 2pc; 
 
 }
 .kiri{
@@ -80,7 +80,7 @@ body{
         float:left;
         margin:auto;
         background:#fff;
-        height : 420px;
+        height: 420px;
 
 }
 
