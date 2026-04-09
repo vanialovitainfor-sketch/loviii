@@ -74,7 +74,7 @@ body
 
 }
 
-. kanan{
+.kanan{
        width:30%;
         float:left;
         margin:auto;
@@ -87,7 +87,7 @@ body
         text-decoration:none;
 }
 
-. footer{
+.footer{
          width:90%;
          margin:auto;
          height:40px;
