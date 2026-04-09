@@ -3,13 +3,14 @@ body{
     color:#333;
     width:100%;
     font-family:sans-serif; 
-    margin:0auto;
+    margin:0 auto;
 }
 
 .header{
       width:90%;
       margin:auto;
-      height:120 px;
+      height:120px;
+      line-height:120px;
       background:#417aa8;
       color:#fff;
 }
