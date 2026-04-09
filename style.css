@@ -12,9 +12,7 @@ body{
     height:120px;
     background:#417aa8;
     color:#fff;
-    padding-left:20px;
     line-height:120px;
-    box-sizing:border-box;
 }
 
 .jarak{
@@ -24,7 +22,7 @@ body{
 .menu{
     background-color:#417aa8;
     height:50px;
-    line-height:50 px;
+    line-height:50px;
     position:relative;
     width:90%;
     margin:0 auto;
@@ -49,12 +47,12 @@ body{
     display:block;
 }
 .content{ 
-        width : 90%;
-        margin : auto;
-        height : 420px;
+        width:90%;
+        margin:auto;
+        height:420px;
         padding:0.1px;
-        background : #fff;
-        color : #333;
+        background:#fff;
+        color:#333;
 
 }
 
